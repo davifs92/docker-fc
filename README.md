@@ -2,4 +2,4 @@
 
 ##Desafio go
 
-Imagem no DockerHub: 
+Imagem no DockerHub: davifs92/estudos:1.0
